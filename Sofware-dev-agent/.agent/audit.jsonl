@@ -44,3 +44,35 @@
 {"timestamp": "2026-10-26T09:46:14.225889+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
 {"timestamp": "2026-10-26T09:46:14.232164+00:00", "event": "get_incident", "details": {"incident_id": 2}}
 {"timestamp": "2026-10-26T09:46:14.238444+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-10-26T13:36:06.602250+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
+{"timestamp": "2026-10-26T13:36:06.603042+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-10-26T13:36:06.604457+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.604848+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.605328+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-10-26T13:36:06.605769+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.606183+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.606717+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-10-26T13:36:06.607132+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-10-26T13:36:06.607562+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-10-26T13:36:06.608076+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-10-26T13:36:06.608507+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.608800+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-10-26T13:36:06.609106+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.609437+00:00", "event": "get_incident", "details": {"incident_id": 2}}
+{"timestamp": "2026-10-26T13:36:06.609733+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-10-26T13:36:06.829029+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
+{"timestamp": "2026-10-26T13:36:06.829846+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-10-26T13:36:06.831333+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.831731+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.832212+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-10-26T13:36:06.832686+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.833094+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.833609+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-10-26T13:36:06.834065+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-10-26T13:36:06.834512+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-10-26T13:36:06.834982+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-10-26T13:36:06.835419+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-10-26T13:36:06.835714+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-10-26T13:36:06.836016+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-10-26T13:36:06.836345+00:00", "event": "get_incident", "details": {"incident_id": 2}}
+{"timestamp": "2026-10-26T13:36:06.836660+00:00", "event": "list_incidents", "details": {"count": 2}}
